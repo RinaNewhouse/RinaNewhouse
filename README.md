@@ -4,7 +4,7 @@ Hey! 👋 My name is Rina Newhouse
 AI-Based Frontend Developer
 ---------------------------
 
-I've been learning to code for the past two years, just thinking I'd settle into vanilla HTML and CSS for life. But, when a company near and dear to my heart asked me to re-up their website for pay, I had to give them my absolute all—this was when backend development, artificial intelligence, and JavaScript libraries came alive for me. Now, I have the dream to leverage that energy forward, and it starts with this.
+I've been learning to code for the past two years, just thinking I'd settle into vanilla HTML and CSS for life. But, when a company near and dear to my heart asked me to completely redo their website for pay, I had to give them my absolute all—this was when backend development, artificial intelligence, and JavaScript libraries came alive for me. Now, I have the dream to leverage that energy forward, and it starts with this.
 
 * 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [Rina's Portfolio](http://https://rinanewhouse.github.io/E-Portfolio/#)
