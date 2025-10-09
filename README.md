@@ -7,7 +7,7 @@ AI-Based Frontend Developer
 I've been learning to code for the past two years, just thinking I'd settle into vanilla HTML and CSS for life. But, when a company near and dear to my heart asked me to completely re-do their website for pay, I had to give them my absolute all—this was when backend development, artificial intelligence, and JavaScript libraries came alive for me. Now, I have the dream to leverage that energy forward, and it starts with this.
 
 * 🌍  I'm based in the United States
-* 🖥️  See my portfolio at [Rina's Portfolio](http://https://rinanewhouse.github.io/E-Portfolio/#)
+* 🖥️  See my portfolio at [Rina's Portfolio](https://rinanewhouse.dev)
 * ✉️  You can contact me at [rina.newhouse@gmail.com](mailto:rina.newhouse@gmail.com)
 * 🚀  I'm currently working on [the Johns Hopkins University Hillel Website](http://hopkinshillel.org)
 * 🧠  I'm currently learning Typescript + Tailwind CSS
