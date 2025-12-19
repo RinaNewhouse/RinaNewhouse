@@ -5,7 +5,9 @@ I've been learning to code for the past three years, just thinking I'd settle in
 
 It's not just random lines of code anymore. 
 
-It's creating a product that optimizes, so much so, that it brings forth those real, tangible, SOLUTIONS that we are craving. Now, I have a dream to leverage that energy forward, and it all starts with this.
+It's creating a product that optimizes, so much so, that it brings forth those real, tangible, SOLUTIONS that we are craving. 
+
+Now, I have a dream to leverage that energy forward, and it all starts with this.
 
 * First of all: **[check out my portfolio!!](https://rinanewhouse.dev)**
 * Contact me at [rina.newhouse@gmail.com](mailto:rina.newhouse@gmail.com)
