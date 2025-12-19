@@ -1,7 +1,7 @@
 Hey! 👋 My name is Rina Newhouse. I'm a frontend developer
 ======================================================================================================================================
 
-I've been learning to code for the past two years, thinking I'd just settle into vanilla HTML and CSS for life. But, when a company **_near and dear_** to my heart asked me to completely re-do their website for pay, I just HAD to give them my absolute all. This was when React frameworks, backend development, RestAPIs, and artificial intelligence came alive for me. 
+When I was first learning how to code, I thought I'd just settle into vanilla HTML and CSS for life. But, when a company **_near and dear_** to my heart asked me to completely re-do their website for pay, I just HAD to give them my absolute all. This was when React frameworks, backend development, RestAPIs, and artificial intelligence came alive for me. 
 
 It's not just random lines of code anymore. 
 
