@@ -1,7 +1,7 @@
 Hey! 👋 My name is Rina Newhouse. I'm a frontend developer
 ======================================================================================================================================
 
-I've been learning to code for the past three years, just thinking I'd settle into vanilla HTML and CSS **_for LIFE_**. But, when a company **_near and dear_** to my heart asked me to completely re-do their website for pay, I just **_HAD_** to give them my absolute all. This was when React frameworks, backend development, RestAPIs, and artificial intelligence, came alive for me. Now, I have a dream to leverage that energy forward, and it all starts with this.
+I've been learning to code for the past three years, just thinking I'd settle into vanilla HTML and CSS **for LIFE**. But, when a company **_near and dear_** to my heart asked me to completely re-do their website for pay, I just **_HAD_** to give them my absolute all. This was when React frameworks, backend development, RestAPIs, and artificial intelligence, came alive for me. Now, I have a dream to leverage that energy forward, and it all starts with this.
 
 * First of all: **[check out my portfolio!!](https://rinanewhouse.dev)**
 * Contact me at [rina.newhouse@gmail.com](mailto:rina.newhouse@gmail.com)
