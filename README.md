@@ -1,7 +1,7 @@
 Hey! 👋 My name is Rina Newhouse. I'm a frontend developer
 ======================================================================================================================================
 
-I've been learning to code for the past three years, just thinking I'd settle into vanilla HTML and CSS for life. But, when a company **_near and dear_** to my heart asked me to completely re-do their website for pay, I just HAD to give them my absolute all. This was when React frameworks, backend development, RestAPIs, and artificial intelligence came alive for me. 
+I've been learning to code for the past couple years, just thinking I'd settle into vanilla HTML and CSS for life. But, when a company **_near and dear_** to my heart asked me to completely re-do their website for pay, I just HAD to give them my absolute all. This was when React frameworks, backend development, RestAPIs, and artificial intelligence came alive for me. 
 
 It's not just random lines of code anymore. 
 
@@ -9,7 +9,7 @@ It's creating a product that optimizes, so much so, that it brings forth those r
 
 Now, I have a dream to leverage that energy forward, and it all starts with this.
 
-* First of all: **[check out my portfolio!!!](https://rinanewhouse.dev)**
+* First of all: **[check out my portfolio!](https://rinanewhouse.dev)**
 * Contact me at [rina.newhouse@gmail.com](mailto:rina.newhouse@gmail.com)
 * I'm currently working on the [Johns Hopkins Hillel website](http://hopkinshillel.org)
 * I'm currently learning React + Next.js, and how to use Claude to 10x myself
