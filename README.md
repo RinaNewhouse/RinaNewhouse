@@ -5,7 +5,7 @@ When I was first learning how to code, I thought I'd just settle into vanilla HT
 
 It's not just random lines of code anymore. 
 
-It's creating a product that optimizes, so much so, that it brings forth those real, tangible, SOLUTIONS that we are craving. 
+It's creating a product that optimizes, so much so, that it brings forth those real, tangible, SOLUTIONS that we are all craving. 
 
 Now, I have a dream to leverage that energy forward, and it all starts with this.
 
