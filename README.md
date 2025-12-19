@@ -9,7 +9,7 @@ It's creating a product that optimizes, so much so, that it brings forth those r
 
 Now, I have a dream to leverage that energy forward, and it all starts with this.
 
-* First of all: **[check out my portfolio!!](https://rinanewhouse.dev)**
+* First of all: **[check out my portfolio!!!](https://rinanewhouse.dev)**
 * Contact me at [rina.newhouse@gmail.com](mailto:rina.newhouse@gmail.com)
 * I'm currently working on the [Johns Hopkins Hillel website](http://hopkinshillel.org)
 * I'm currently learning React + Next.js, and how to use Claude to 10x myself
