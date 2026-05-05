@@ -1,11 +1,11 @@
-Hey! 👋 My name is Rina Newhouse. I'm a software engineer.
+Hey! 👋 My name is Rina Newhouse. I'm a software engineer and I *LOVE* AI.
 ======================================================================================================================================
 
-When I was first learning how to code, I thought I'd just settle into vanilla HTML and CSS for life. But, when a company **_near and dear_** to my heart asked me to completely re-do their website for pay, I just HAD to give them my absolute all. This was when React frameworks, backend development, RestAPIs, and artificial intelligence came alive for me. 
+When I was first learning how to code, I thought I'd just settle into vanilla HTML and CSS for life. But, when a company **_near and dear_** to my heart asked me to completely re-do their website for pay, I just HAD to give them my absolute all. This was when Next.js, React frameworks, backend development, RestAPIs, and AI like Cursor, v0, and Claude came alive for me. 
 
-It's not just random lines of code anymore. 
+It's _not_ just random lines of code anymore. 
 
-It's creating a product that optimizes, so much so, that it brings forth those real, tangible, SOLUTIONS that we are all craving. 
+It's creating a product that optimizes, so much so, that it brings forth those real, tangible, SOLUTIONS to life. 
 
 Now, I have a dream to leverage that energy forward, and it all starts with this.
 
