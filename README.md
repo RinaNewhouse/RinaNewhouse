@@ -1,4 +1,4 @@
-Hey! 👋 My name is Rina Newhouse. I'm a software engineer and I LOVE AI.
+Hey!!! 👋 My name is Rina Newhouse. I'm a software engineer and I LOVE AI.
 ======================================================================================================================================
 
 When I was first learning how to code, I thought I'd just settle into vanilla HTML and CSS for life. But, when a company **_near and dear_** to my heart asked me to completely re-do their website, I just HAD to give them my absolute all. This was when Next.js, React frameworks, backend development, and RestAPIs came alive. 
@@ -13,7 +13,7 @@ Now, I have a dream to leverage that energy forward, and it all starts with this
 
 * First of all: **[check out my portfolio!](https://rinanewhouse.dev)**
 * Contact me at [rina.newhouse@gmail.com](mailto:rina.newhouse@gmail.com)
-* I'm currently working on an epic platform for [ionRoad](http://ionroad.io)
+* I'm currently working on an epic platform for [ionRoad](http://ionroad.io)!
 * I'm currently pursuing an AWS certification and using Claude to 10x myself
 
 <p align="left">
